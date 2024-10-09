@@ -1,1 +1,18 @@
-#hyunjin
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Hello! Welcome to my page🙂</h1>
+  <div>
+    학번 :***8041
+    <br>
+    이름 : 김현진</div>
+  <h4>참고</h4>
+    <pre>
+  <li><a href = "https://althoflee.github.io/web_lecture">참고사이트</a></li> </pre> 
+</body>
+</html>
